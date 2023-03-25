@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Feedback
+
+If you have any feedback, please reach out to us at umarashraf7827@gmail.com
+
+## Developer
+
+- [@Umar Ashraf](https://github.com/UmarAxhraf/)
+
+
+# Project Md File ⬇️ 
+
 ## Available Scripts
 
 In the project directory, you can run:
